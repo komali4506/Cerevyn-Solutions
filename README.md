@@ -15,3 +15,6 @@ The project focuses not only on prediction accuracy but also on proper data prep
 
 # Results & metrics
 <img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/a6566eb8-5e31-4d02-a5c1-25c338c0bfb4" />
+
+# Drive Link
+https://colab.research.google.com/drive/12Ic9n_A2Rr-shT3Vh610D6LDnpQj0Vbj?usp=sharing
